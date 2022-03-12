@@ -1,0 +1,14 @@
+{
+  "name": "hkfin",
+  "description": "Deploy hkfin on Heroku.",
+  "keywords": [],
+  "env": {
+    "EM": {
+      "value": "",
+      "description": ""
+    }
+  },
+  "website": "",
+  "repository": "",
+  "stack": "container"
+}
